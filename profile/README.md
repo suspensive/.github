@@ -32,10 +32,11 @@
 
 - [Jonghyeon Ko](https://github.com/manudeli)
 - [Chanhyuk Park](https://github.com/okinawaa)
+- [Minsoo Kim](https://github.com/minsoo-web)
 
 ## Contributor
 
-- [Contributors](https://github.com/suspensive/react/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=suspensive/react)](https://github.com/suspensive/react/graphs/contributors)
 
 ## License
 
