@@ -45,7 +45,7 @@ MIT © Suspensive. See [LICENSE](https://github.com/suspensive/react/blob/main/L
 <div align="center">
   <a title="Suspensive" href="https://github.com/suspensive">
     <div style='display:flex; align-items:center;'>
-      <img alt="Suspensive" src="https://github.com/suspensive/react/blob/main/docs/public/img/logo_dark.png?raw=true" width="24">
+      <img alt="Suspensive" src="https://github.com/suspensive/react/blob/main/assets/logo_dark.png?raw=true" width="24">
       <sup>Suspensive</sup>
     </div>
   </a>
