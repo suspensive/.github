@@ -28,12 +28,6 @@
 [![npm](https://img.shields.io/npm/dm/@suspensive/react-query?color=000&labelColor=000)](https://www.npmjs.com/package/@suspensive/react-query)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@suspensive/react-query?color=000&labelColor=000)](https://www.npmjs.com/package/@suspensive/react-query)
 
-## Maintainer
-
-- [Jonghyeon Ko](https://github.com/manudeli)
-- [Chanhyuk Park](https://github.com/okinawaa)
-- [Minsoo Kim](https://github.com/minsoo-web)
-
 ## Contributor
 
 [![contributors](https://contrib.rocks/image?repo=suspensive/react)](https://github.com/suspensive/react/graphs/contributors)
